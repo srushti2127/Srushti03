@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @vinnusrushti
+- 👋 Hi, I’m @Srushti
 - 👀 I’m interested in photography,java programing
 - 🌱 I’m currently learning java,photography
 - 💞️ I’m looking to collaborate on photography companies,software companies like TCS&Cognizant
